@@ -1,0 +1,15 @@
+name: dart_dva
+authors: 
+  - Wenjun Huang <kongkonghwj@gmail.com>
+description: Dva for Dart
+homepage:  https://github.com/aliyoge/dart_dva
+version: 0.0.1
+
+environment:
+  sdk: '>=1.24.0 <3.0.0'
+
+dependencies:
+  redux: ">=3.0.0 <4.0.0"
+
+dev_dependencies:
+  test: '>=0.12.24+2 <2.0.0'
